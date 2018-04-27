@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\bin\Debug\Tortuguini.exe.config
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\bin\Debug\Tortuguini.exe
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\bin\Debug\Tortuguini.pdb
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\obj\Debug\Tortuguini.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\obj\Debug\Tortuguini.Form1.resources
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\obj\Debug\Tortuguini.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\obj\Debug\Tortuguini.csproj.GenerateResource.Cache
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\obj\Debug\Tortuguini.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\obj\Debug\Tortuguini.exe
+C:\Users\USUARIO\source\repos\Tortuguini\Tortuguini\obj\Debug\Tortuguini.pdb
